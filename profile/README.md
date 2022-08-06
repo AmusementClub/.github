@@ -25,7 +25,7 @@ For plugin developers, we have:
 - [vs-api3](https://github.com/AmusementClub/vs-api3): a solution for dual api3/api4 plugins.
 
 
-We also have a large number of forked VS plugins, those are mostly for internal uses, though you're welcome to use them. Some of the notable ones are listed below:
+We also have a large number of forked VS plugins, and those are mostly for internal uses/experiments, though you're welcome to use them. Some of the notable ones are listed below:
 - [DCTFilter](https://github.com/AmusementClub/VapourSynth-DCTFilter): DCTFilter with arbitrary DCT block size and other enhancements.
 - [FFT3DFilter](https://github.com/AmusementClub/VapourSynth-FFT3DFilter): significant speedups.
 - [fmtconv](https://github.com/AmusementClub/fmtconv): with experimental custom kernel support.
