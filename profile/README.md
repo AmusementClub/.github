@@ -9,7 +9,7 @@
 ## VS Plugins
 - [assrender](https://github.com/AmusementClub/assrender): a plugin that renders ASS/SSA subtitle using libass.
 - [vs-boxblur](https://github.com/AmusementClub/vs-boxblur): AVX2-vectorized box filter.
-- [vs-dfttest2](https://github.com/AmusementClub/vs-dfttest2): CUDA-accelerated DFTTest re-implemetation for VapourSynth (WIP).
+- [vs-dfttest2](https://github.com/AmusementClub/vs-dfttest2): Accelerated DFTTest re-implemetation for VapourSynth, with CUDA, SIMD (CPU), and generic GCC vector (CPU) backends.
 - [vs-fgrain-cuda](https://github.com/AmusementClub/vs-fgrain-cuda): [Realistic Film Grain Rendering](https://www.ipol.im/pub/art/2017/192/) for VapourSynth, accelerated with CUDA. For CPU-only plugin, see [EleonoreMizo's chickendream](https://github.com/EleonoreMizo/chickendream).
 - [vs-mlrt](https://github.com/AmusementClub/vs-mlrt): efficient ML/AI Filter Runtimes for VapourSynth (with built-in support for waifu2x, DPIR, RealESRGANv2/v3, and Real-CUGAN).
 - [vs-nlm-ispc](https://github.com/AmusementClub/vs-nlm-ispc): non-local means denoise filter, drop-in replacement of the venerable [KNLMeansCL](https://github.com/Khanattila/KNLMeansCL) for VapourSynth, but without the OpenCL dependency (CPU only).
