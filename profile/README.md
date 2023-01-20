@@ -13,6 +13,7 @@
 - [vs-fgrain-cuda](https://github.com/AmusementClub/vs-fgrain-cuda): [Realistic Film Grain Rendering](https://www.ipol.im/pub/art/2017/192/) for VapourSynth, accelerated with CUDA. For CPU-only plugin, see [EleonoreMizo's chickendream](https://github.com/EleonoreMizo/chickendream).
 - [vs-mlrt](https://github.com/AmusementClub/vs-mlrt): efficient ML/AI Filter Runtimes for VapourSynth (with built-in support for waifu2x, DPIR, RealESRGANv2/v3, and Real-CUGAN).
 - [vs-nlm-ispc](https://github.com/AmusementClub/vs-nlm-ispc): non-local means denoise filter, drop-in replacement of the venerable [KNLMeansCL](https://github.com/Khanattila/KNLMeansCL) for VapourSynth, but without the OpenCL dependency (CPU only).
+- [vs-nlm-cuda](https://github.com/AmusementClub/vs-nlm-cuda): non-local means denoise filter, drop-in replacement of the venerable [KNLMeansCL](https://github.com/Khanattila/KNLMeansCL) for VapourSynth, but accelerated with CUDA (~10% faster with 1 stream, up to ~50% faster with multiple streams.)
 
 
 We also host Windows binary releases for the following plugins:
