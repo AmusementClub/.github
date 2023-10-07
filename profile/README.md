@@ -39,4 +39,5 @@ We also have a large number of forked VS plugins, and those are mostly for inter
 ## Random Stuff
 - [ResampleHQ's resampling kernel virtualization](https://AmusementClub.github.io/ResampleHQ/), preserved from now defunct website.
 - [OKEGui](https://github.com/AmusementClub/OKEGui): (Chinese only) fork of [OKEGui](https://github.com/vcb-s/OKEGui) (One-Key Encode GUI) batch BDRip encoding helper.
+- [WenQuanYi Bitmap Song TTF](https://github.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF): A vector .ttf version of WenQuanYi Bitmap Song font. It has over 27,842 characters in 5 sizes.
 
